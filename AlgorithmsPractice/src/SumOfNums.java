@@ -34,6 +34,6 @@ public class SumOfNums {
 	//이번에도 그냥 배열리스트 만들어서 마지막으로 한꺼번에 촤라락 더할수있게 했다.
 	//여기서 알아가야 할건 String을 char로 바꾸는거하고 char를 int로 바꾸는거?..
 	//그리고 Scanner에서 hasNext나 nextLine, next 이런 메소드들 정확히 알아가야 할것같
-	
+	//Scanner는 지양하고 BufferedReader를 선호하는것같긴하다..
 
 }
