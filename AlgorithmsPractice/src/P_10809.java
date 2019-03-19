@@ -17,9 +17,11 @@ public class P_10809 {
 			}
 			
 		}
+		
 		for(int i = 0; i<arr.length;i++) {
 			System.out.print(arr[i]+" ");
 		}	
 	}
 
 }
+//10808번을 어케 푸는지 알았더니 금방 풀수있었당!
