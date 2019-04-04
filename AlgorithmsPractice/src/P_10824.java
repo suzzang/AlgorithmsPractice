@@ -18,6 +18,7 @@ public class P_10824 {
 		BigInteger AB_i = new BigInteger(AB);
 		BigInteger CD_i = new BigInteger(CD);
 		
+		
 		BigInteger result = AB_i.add(CD_i);
 		System.out.println(result);
 
@@ -27,5 +28,5 @@ public class P_10824 {
 /*
  * 4개 자연수 모두가 1000000 일경우 int 범위 초과 에러가 난다
  * BigInteger 사용하면 끝!
- * 
+ * 오잉 근데 Long타입으로 변환해도 된당.(Long.parseLong)
  * */
