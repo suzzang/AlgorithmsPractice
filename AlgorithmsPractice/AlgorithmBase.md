@@ -39,7 +39,7 @@
 - [1, 2, 3 더하기](https://github.com/suzzang/AlgorithmsPractice/commit/f0740c33f0a8370a8f344a9b91bf46ab669bcc5b)
 - 붕어빵 판매하기
 - [쉬운 계단 수](https://github.com/suzzang/AlgorithmsPractice/commit/11156399f260a876257ad84e9026b5af62d652dd)
-- 오르막 수
+- [오르막 수](https://github.com/suzzang/AlgorithmsPractice/commit/5eb2f8d2c2e8895e1b8a009b87377ce3d9b863a2)
 - [이친수](https://github.com/suzzang/AlgorithmsPractice/commit/c3b7df905f7631ccf581306e92ad72aaec91016f)
 - 스티커
 - 포도주 시식
