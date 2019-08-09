@@ -26,7 +26,7 @@
 - [알파벳 개수](https://github.com/suzzang/AlgorithmsPractice/commit/807758412223bc371c1f330a90ff3b820366f5f7)
 - [알파벳 찾기](https://github.com/suzzang/AlgorithmsPractice/commit/17ac7247eae6825c93ef17a5c8a647319ced34c5)
 - [문자열 분석](https://github.com/suzzang/AlgorithmsPractice/commit/84ef28a0e7ddd7aec0275b20c0193878dd67b907)
-- 단어 길이 재기
+- [단어 길이 재기](https://github.com/suzzang/AlgorithmsPractice/blob/master/AlgorithmsPractice/src/P_2743.java)
 - [ROT13](https://github.com/suzzang/AlgorithmsPractice/commit/043efc9da01dfa019ac6a6084c86705e01af6ca2)
 - [네 수](https://github.com/suzzang/AlgorithmsPractice/commit/15c560d705b03b174284cc0a2cee3e04def790ca)
 - [접미사 배열](https://github.com/suzzang/AlgorithmsPractice/commit/cacbd3e2dd79547670fab6e0771bdda308c79627)
