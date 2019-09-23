@@ -41,7 +41,7 @@
 - [쉬운 계단 수](https://github.com/suzzang/AlgorithmsPractice/commit/11156399f260a876257ad84e9026b5af62d652dd)
 - [오르막 수](https://github.com/suzzang/AlgorithmsPractice/commit/5eb2f8d2c2e8895e1b8a009b87377ce3d9b863a2)
 - [이친수](https://github.com/suzzang/AlgorithmsPractice/commit/c3b7df905f7631ccf581306e92ad72aaec91016f)
-- 스티커
+- [스티커](AlgorithmsPractice/src/P_9465Re.java)
 - 포도주 시식
 - 가장 긴 증가하는 부분 수열
 - 가장 큰 증가 부분 수열
